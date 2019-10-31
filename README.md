@@ -46,7 +46,7 @@ By nature of connecting to a website on the internet, the following data may be 
 #### st-hub (main)
 
 The server exposes a locally running REST API on http://localhost:1323. It serves for both the frontend and the
-`scraper`.
+`scraper`.gg
 
 #### scraper (lib/scraper/)
 
